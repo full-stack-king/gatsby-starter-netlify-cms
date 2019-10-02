@@ -6,6 +6,8 @@ description: Working on netlify cms with Gatsby is fun
 featuredpost: false
 featuredimage: /img/products-grid2.jpg
 tags:
+  - flavor
+  - tasting
   - test
 ---
 ## Here is the title
