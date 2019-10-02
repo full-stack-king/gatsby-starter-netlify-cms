@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Hello World
-date: 2019-10-02T14:29:48.398Z
+date: 2019-10-01T14:29:48.398Z
 description: Working on netlify cms with Gatsby is fun
 featuredpost: false
 featuredimage: /img/products-grid2.jpg
